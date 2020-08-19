@@ -1,0 +1,48 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_allure_demo",
+    "children" : [ {
+      "name" : "test_login",
+      "uid" : "baa93651b147b897",
+      "parentUid" : "888b2304baf3431e8d5dd0d65ecb1851",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597742024691,
+        "stop" : 1597742024692,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_search",
+      "uid" : "2d7310f4c486cc8",
+      "parentUid" : "888b2304baf3431e8d5dd0d65ecb1851",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597742024694,
+        "stop" : 1597742024694,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_exit",
+      "uid" : "a69441eaf21f5b66",
+      "parentUid" : "888b2304baf3431e8d5dd0d65ecb1851",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597742024700,
+        "stop" : 1597742024700,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "888b2304baf3431e8d5dd0d65ecb1851"
+  } ]
+}
